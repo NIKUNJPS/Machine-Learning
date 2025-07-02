@@ -1,0 +1,7 @@
+Download heart dataset from following link.
+https://www.kaggle.com/zhaoyingzhu/heartcsv
+Implement following Data Preprocessing using Python / Scilab:
+a. Data Cleaning
+b. Handling Missing Data
+c. Data Transformation,
+d. Randomly divide dataset in training (75%) and testing (25%).
